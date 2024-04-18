@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+#countlabel {
+  width: 600px;
+  font-size: 300px;
+}
+.button {
+  color: aliceblue;
+  background-color: rgb(55, 138, 111);
+  width: 150px;
+  padding: 10px;
+  margin: 5px;
+  
+}
